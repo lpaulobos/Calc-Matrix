@@ -1,9 +1,0 @@
-C:\Users\luis.silva\Desktop\Calculadora Matriz\CalculadoraMatriz2003\CalculadoraMatriz2003\bin\Debug\CalculadoraMatriz2003.exe.config
-C:\Users\luis.silva\Desktop\Calculadora Matriz\CalculadoraMatriz2003\CalculadoraMatriz2003\bin\Debug\CalculadoraMatriz2003.exe
-C:\Users\luis.silva\Desktop\Calculadora Matriz\CalculadoraMatriz2003\CalculadoraMatriz2003\bin\Debug\CalculadoraMatriz2003.pdb
-C:\Users\luis.silva\Desktop\Calculadora Matriz\CalculadoraMatriz2003\CalculadoraMatriz2003\obj\Debug\CalculadoraMatriz2003.csprojResolveAssemblyReference.cache
-C:\Users\luis.silva\Desktop\Calculadora Matriz\CalculadoraMatriz2003\CalculadoraMatriz2003\obj\Debug\CalculadoraMatriz2003.Form1.resources
-C:\Users\luis.silva\Desktop\Calculadora Matriz\CalculadoraMatriz2003\CalculadoraMatriz2003\obj\Debug\CalculadoraMatriz2003.Properties.Resources.resources
-C:\Users\luis.silva\Desktop\Calculadora Matriz\CalculadoraMatriz2003\CalculadoraMatriz2003\obj\Debug\CalculadoraMatriz2003.csproj.GenerateResource.Cache
-C:\Users\luis.silva\Desktop\Calculadora Matriz\CalculadoraMatriz2003\CalculadoraMatriz2003\obj\Debug\CalculadoraMatriz2003.exe
-C:\Users\luis.silva\Desktop\Calculadora Matriz\CalculadoraMatriz2003\CalculadoraMatriz2003\obj\Debug\CalculadoraMatriz2003.pdb
